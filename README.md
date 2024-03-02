@@ -5,7 +5,7 @@ Welcome to my Python Fundamentals Portfolio! This repository serves as a showcas
 ## Table of Contents
 
 - [About](#about)
-- [Projects](#projects)
+- [Syllabus](#syllabus)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -13,9 +13,12 @@ Welcome to my Python Fundamentals Portfolio! This repository serves as a showcas
 
 In this repository, you will find a curated selection of Python projects and exercises that highlight various aspects of my programming capabilities. From basic algorithms to advanced applications, these examples reflect my dedication to mastering Python and my ability to solve real-world problems using programming.
 
-## Projects
+## Syllabus
 
-### Project 1: WIP
+- [Introduction to Python](01_Introduction)
+- [Control Flow](02_Control_Flow)
+- [Loops](03_Loops)
+- [Exception Handling](04_Exception_Handling)
 
 ## Contributing
 
