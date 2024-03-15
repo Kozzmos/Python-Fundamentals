@@ -15,6 +15,7 @@ perimeter = calculate_perimeter_of_rectangle(length, width)
 print("Area:", area)
 print("Perimeter:", perimeter)
 
+# ----------------------------------------------------------------------------------------------------------
 # Applying DRY Principle
 
 class Rectangle:
