@@ -15,10 +15,11 @@ In this repository, you will find a curated selection of Python projects and exe
 
 ## Syllabus
 
-- [Introduction to Python](01_Introduction)
-- [Control Flow](02_Control_Flow)
-- [Loops](03_Loops)
-- [Exception Handling](04_Exception_Handling)
+- [00 Software Principles](00_Software_Principles)
+- [01 Introduction to Python](01_Introduction)
+- [02 Control Flow](02_Control_Flow)
+- [03 Loops](03_Loops)
+- [04 Exception Handling](04_Exception_Handling)
 
 ## Contributing
 
