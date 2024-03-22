@@ -23,6 +23,8 @@ In this repository, you will find a curated selection of Python projects and exe
 - [02 Control Flow](02_Control_Flow)
 - [03 Loops](03_Loops)
 - [04 Exception Handling](04_Exception_Handling)
+- [05 Lists and List Comprehension](05_Lists_and_List_Comprehension)
+- [06 Tuples](06_Tuples)
 
 ## Contributing
 
