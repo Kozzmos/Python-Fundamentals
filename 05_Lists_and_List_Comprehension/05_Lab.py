@@ -18,7 +18,7 @@ print(fruits)  # Output: ["apple", "grapes", "cherry", "orange", "kiwi"]
 fruits.remove("cherry")  # Remove "cherry" from the list
 print(fruits)  # Output: ["apple", "grapes", "orange", "kiwi"]
 
-------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------
 
 # List comprehension to create a list of squares
 squares = [x ** 2 for x in range(1, 6)]
@@ -36,7 +36,7 @@ print(matrix)  # Output: [[1, 2, 3], [2, 4, 6], [3, 6, 9]]
 fruits = [fruit.upper() for fruit in fruits]  # Convert all elements to uppercase
 print(fruits)  # Output: ["APPLE", "GRAPES", "BANANA", "ORANGE", "KIWI"]
 
-------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------
 
 # Some string operations which you can use with lists:
 
