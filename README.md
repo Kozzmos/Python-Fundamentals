@@ -25,6 +25,10 @@ In this repository, you will find a curated selection of Python projects and exe
 - [04 Exception Handling](04_Exception_Handling)
 - [05 Lists and List Comprehension](05_Lists_and_List_Comprehension)
 - [06 Tuples](06_Tuples)
+- [07 Dictionary](07_Dictionary)
+- [08 API Request Handling](08_API_Request_Handling)
+- [09 Custom Functions](09_Custom_Functions)
+- [10 Example Projects](10_Example_Projects)
 
 ## Contributing
 
