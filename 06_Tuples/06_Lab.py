@@ -17,7 +17,7 @@ print(my_tuple[1:4])  # Output: (2, 3, "hello")
 # - To access elements in a tuple, we use indexing. Indexing starts from 0, so `my_tuple[0]` refers to the first element.
 # - Slicing allows us to extract a subset of elements from the tuple. `my_tuple[1:4]` returns elements from index 1 to index 3.
 
--------------------------------------------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------------------------------------------
 # Tuple Methods:
 
 # Tuple methods
@@ -30,7 +30,7 @@ print(my_tuple.index(4))  # Output: 4 (index of the first occurrence of 4)
 # - The `count()` method returns the number of occurrences of a specified element in the tuple. In this case, it counts the occurrences of the integer 2.
 # - The `index()` method returns the index of the first occurrence of a specified element in the tuple. Here, it returns the index of the integer 4.
 
--------------------------------------------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------------------------------------------
 # Advanced Tuple Operations:
 
 # Nested tuples
